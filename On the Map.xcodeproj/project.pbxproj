@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F506A04A251C222C003753C0 /* Montserrat-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F55EA8FF251BFADA008BE65E /* Montserrat-Semibold.ttf */; };
 		F506A04C251C222E003753C0 /* Montserrat-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F506A047251C1DDB003753C0 /* Montserrat-Bold.ttf */; };
 		F506A04E251C2231003753C0 /* Montserrat-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F55EA8FB251BF9FE008BE65E /* Montserrat-Regular.ttf */; };
 		F506A05A251C2A77003753C0 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F506A059251C2A77003753C0 /* CustomButton.swift */; };
@@ -59,7 +58,6 @@
 		F55EA8EC251BECEF008BE65E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F55EA8EE251BECEF008BE65E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F55EA8FB251BF9FE008BE65E /* Montserrat-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Regular.ttf"; sourceTree = "<group>"; };
-		F55EA8FF251BFADA008BE65E /* Montserrat-Semibold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Semibold.ttf"; sourceTree = "<group>"; };
 		F55EA901251C0867008BE65E /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
 		F58CADCB25200409001C0367 /* ConfirmLocationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmLocationViewController.swift; sourceTree = "<group>"; };
 		F5D3CD3C251E097A005206B0 /* UserDataResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDataResponse.swift; sourceTree = "<group>"; };
@@ -186,7 +184,6 @@
 			children = (
 				F55EA8FB251BF9FE008BE65E /* Montserrat-Regular.ttf */,
 				F506A047251C1DDB003753C0 /* Montserrat-Bold.ttf */,
-				F55EA8FF251BFADA008BE65E /* Montserrat-Semibold.ttf */,
 			);
 			path = fonts;
 			sourceTree = "<group>";
@@ -248,7 +245,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F506A04A251C222C003753C0 /* Montserrat-Semibold.ttf in Resources */,
 				F55EA8ED251BECEF008BE65E /* LaunchScreen.storyboard in Resources */,
 				F506A04E251C2231003753C0 /* Montserrat-Regular.ttf in Resources */,
 				F506A04C251C222E003753C0 /* Montserrat-Bold.ttf in Resources */,
